@@ -2,7 +2,7 @@
 ### 👋🏼 Hello, my name is Mailan Franco
 #### 👉🏼 I am web developer Full-stack
 #### 👉🏼 More then 3 years in Web Development
-#### 📚 Actualy study Laravel && Node.js
+#### 📚 Current Study Laravel && Node.js
 
 #### \<span> I am very passionate about the development {{ $process }} \</span>
 ##### $love = 'code';
