@@ -5,8 +5,20 @@
 #### 📚 Current Study Laravel && Node.js
 
 #### \<span> I am very passionate about the development {{ $process }} \</span>
-##### $love = 'code';
-##### echo "My love is {$love}";
+<br><br>
+## Projetos Front-end
+#### Projeto de encurtador de link => <a href='https://github.com/Sckurtt/encurtalink'>Clique aqui</a>
+#### Projeto de um site de vagas Front-end => <a href='https://github.com/Sckurtt/front-vagas'>Clique aqui</a>
+
+## Projetos Full-stack
+#### verificador de CPF Válido em Node.js => <a href='https://github.com/Sckurtt/Verificador-de-CPF'>Clique aqui</a>
+
+## Projetos Back-end
+#### API para validar usuário => <a href='https://github.com/Sckurtt/API-For-Validate-A-User'>Clique aqui</a>
+
+## Repositórios dos meu projetos do Figma
+#### Repositório UI => <a href='https://github.com/Sckurtt/Figma-UI-Projects'>Clique aqui</a>
+
 
 ### Skills:  JS / HTML / CSS / PHP / Node.js 
  
