@@ -17,7 +17,7 @@
 ## Projetos Back-end
 #### API para validar usuário => <a href='https://github.com/Sckurtt/API-For-Validate-A-User'>Clique aqui</a>
 <br><br>
-## Repositórios dos meu projetos do Figma
+## Repositórios dos meu projetos no Figma
 #### Repositório UI => <a href='https://github.com/Sckurtt/Figma-UI-Projects'>Clique aqui</a>
 
 
