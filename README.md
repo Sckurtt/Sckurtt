@@ -4,18 +4,19 @@
 #### 👉🏼 More then 3 years in Web Development
 #### 📚 Current Study Laravel && Node.js
 
-#### \<span> I am very passionate about the development {{ $process }} \</span>
+\<span> I am very passionate about the development {{ <a href='https://laravel.com/docs/9.x/blade' style='color: #FF2D20 important!;'>$process</a> }} \</span>
+
 <br><br>
 ## Projetos Front-end
 #### Projeto de encurtador de link => <a href='https://github.com/Sckurtt/encurtalink'>Clique aqui</a>
 #### Projeto de um site de vagas Front-end => <a href='https://github.com/Sckurtt/front-vagas'>Clique aqui</a>
-
+<br><br>
 ## Projetos Full-stack
 #### verificador de CPF Válido em Node.js => <a href='https://github.com/Sckurtt/Verificador-de-CPF'>Clique aqui</a>
-
+<br><br>
 ## Projetos Back-end
 #### API para validar usuário => <a href='https://github.com/Sckurtt/API-For-Validate-A-User'>Clique aqui</a>
-
+<br><br>
 ## Repositórios dos meu projetos do Figma
 #### Repositório UI => <a href='https://github.com/Sckurtt/Figma-UI-Projects'>Clique aqui</a>
 
