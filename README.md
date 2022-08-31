@@ -4,7 +4,7 @@
 #### 👉🏼 More then 3 years in Web Development
 #### 📚 Current Study Laravel && Node.js
 
-\<span> I am very passionate about the development {{ <a href='https://laravel.com/docs/9.x/blade' style='color: #FF2D20 important!;'>$process</a> }} \</span>
+
 
 <br><br>
 ## Projetos Front-end
