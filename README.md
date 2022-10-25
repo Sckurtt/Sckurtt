@@ -3,7 +3,7 @@
 #### 👉🏼 I am web developer Full-stack
 #### 👉🏼 More then 3 years in Web Development
 #### 📚 Current Study Laravel && Node.js
-#### ![Screenshot](https://avatars.githubusercontent.com/u/48477396?s=25&v=2) Back-end developer at  [Ellite Digital](https://github.com/ellitedigital)
+
 
 <br><br>
 ## Projetos Front-end
